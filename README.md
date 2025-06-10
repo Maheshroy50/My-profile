@@ -42,7 +42,8 @@
 <br> <h2>🛠️ Projects :</h2>
 <br>
 
-✅ Deployed static websites using AWS EC2 and Nginx
+✅ Deployed static websites using AWS EC2 
+ : https://github.com/Maheshroy50/aws-ec2-static-site-deployment
 
 ✅ Built simple CI/CD pipelines for test apps
 
