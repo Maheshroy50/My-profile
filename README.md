@@ -45,7 +45,7 @@
 ✅ Deployed static websites using AWS EC2 
  : https://github.com/Maheshroy50/aws-ec2-static-site-deployment
 
-✅ Built simple CI/CD pipelines for test apps
+✅ Built a CI/CD pipeline with GitHub Actions to automate deployment of Dockerized apps to an AWS EC2 instance
  : https://github.com/Maheshroy50/ci-cd-pipeline?tab=readme-ov-file
 
 ✅ Actively contributing to personal DevOps labs and scrip
