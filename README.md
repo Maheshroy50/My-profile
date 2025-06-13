@@ -46,7 +46,7 @@
  : https://github.com/Maheshroy50/aws-ec2-static-site-deployment
 
 ✅ Built simple CI/CD pipelines for test apps
-:https://github.com/Maheshroy50/ci-cd-pipeline?tab=readme-ov-file
+ : https://github.com/Maheshroy50/ci-cd-pipeline?tab=readme-ov-file
 
 ✅ Actively contributing to personal DevOps labs and scrip
 
