@@ -50,6 +50,15 @@
 
 ✅ Actively contributing to personal DevOps labs and scrip
 
+## 🚀 Featured Projects  
+### MoodPlay 🎶  
+*AI-powered mood-based music app built with SwiftUI and Spotify API*  
+- Select your mood and get curated playlists  
+- Save your favorite tracks  
+- Smooth SwiftUI animations & modern UI  
+
+👉 [View the repo here](https://github.com/Maheshroy50/MoodPlay)
+
 <br> 
 <h2>🎯 Goals :</h2>
 
