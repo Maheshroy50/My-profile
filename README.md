@@ -25,7 +25,7 @@
 
 📊 Monitoring and logging: Prometheus, Grafana (basics)
 
-🐧 Linux system management & shell scripting <br>
+🐧 Linux system management , Python & shell scripting <br>
 
 
 <h2>🧠  I'm currently learning :</h2>
